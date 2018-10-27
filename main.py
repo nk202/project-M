@@ -12,5 +12,5 @@ circle(200)
 # Text textttt
 write('С Новым годом!')
 
-
+write('Ok')
 done()
