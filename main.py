@@ -6,8 +6,6 @@ color('red')
 circle(200)
 
 
-# Text textttt
-write('Поздравляю!')
 
 write('Ok')
 done()
