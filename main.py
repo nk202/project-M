@@ -2,6 +2,7 @@ from turtle import *
 
 # Frame
 
-# Text
+# Text textttt
+write('С Новым годом!')
 
 
