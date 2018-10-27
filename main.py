@@ -4,8 +4,6 @@ reset()
 
 
 
-# Text textttt
-write('Поздравляю!')
 
 write('Ok')
 done()
